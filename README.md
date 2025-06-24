@@ -10,7 +10,7 @@ Alpha Service is a comprehensive full-stack service management platform that con
 
 **Rakesh Kuncham**  
 📧 Email: rakeshkuncham777@gmail.com  
-🔗 LinkedIn: [Connect with Rakesh](https://linkedin.com/in/rakeshkuncham)
+🔗 LinkedIn: [Connect with Rakesh](https://www.linkedin.com/in/kuncham-rakesh-a20292233)
 
 ## 🚀 Features
 
@@ -350,7 +350,7 @@ For support, questions, or collaboration opportunities:
 
 - **Email**: rakeshkuncham777@gmail.com
 - **GitHub Issues**: [Create an issue](https://github.com/rakeshkuncham/alpha-service/issues)
-- **LinkedIn**: [Rakesh Kuncham](https://linkedin.com/in/rakeshkuncham)
+- **LinkedIn**: [Rakesh Kuncham](https://www.linkedin.com/in/kuncham-rakesh-a20292233/)
 
 ## 🙏 Acknowledgments
 
